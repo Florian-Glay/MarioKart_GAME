@@ -11,7 +11,7 @@ Performances :
 
 ## Informations :
 
-Voici un jeu vidéo disponible sur navigateur et qui n'a pas de but commercial.
+Voici un jeu vidéo disponible sous forme d'exécutable et qui n'a pas de but commercial.
 
 Le jeu est un Mario Kart qui permet de jouer entre 1 et 4 joueurs sur clavier avec "ZQSD", "OKLM", "GVBN", "flèches directionnelles". On peut faire des dérapages sur le circuit en faisant un double appuie sur l'une des touches pour tourner.
 
