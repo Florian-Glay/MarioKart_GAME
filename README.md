@@ -1,5 +1,5 @@
 # MarioKart_GAME
-Voici la version exécutable du jeu, il suffit de lancer l'exécutable pour lancer le jeu.
+Voici la version exécutable du jeu (https://github.com/Florian-Glay/Mario_Kart_1), il suffit de lancer l'exécutable pour lancer le jeu.
 
 Compatible uniquement sur windows
 
